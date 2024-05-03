@@ -147,8 +147,8 @@ a:any-link {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  color: #000;
-  background-color: #fedb00;
+  color: white;
+  background-color: #BE0108;
   white-space: nowrap;
   text-overflow: ellipsis;
   border-radius: 3px;
